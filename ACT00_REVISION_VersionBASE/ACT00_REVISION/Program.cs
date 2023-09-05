@@ -25,47 +25,52 @@ namespace ACT00_REVISION
                 lireDouble(1);
                 lireDouble(2);
                 lireDouble(3);
+                MesOutils.OrdonneCotes(ref c1, ref c2, ref c3);
 
                 // série de test (voir consignes)
-                if (// on a un triangle...)
+                if (MesOutils.Triangle(c1, c2, c3))
                 {
                     // préparation et affichage du résultat du test 'triangle' avec la procédure 'Affiche'
-                    // ...
-                    // ...
+                    MesOutils.Affiche(ok, "triangle", out rep);
+                    Console.WriteLine(rep);
 
                     // vérification équilatéral
-                    if (// on a un triangle équilatéral...)
+                    if (MesOutils.Equi(c1, c2, c3))
                     {
                         // préparation et affichage du résultat du test 'equilateral' avec la procédure 'Affiche'
-                        // ...
-                        // ...
+                        MesOutils.Affiche(ok, "equilateral", out rep);
+                        Console.WriteLine(rep);
                     }
                     else
                     {
                         // vérification triangle rectangle
-                        if (// on a un triangle équilatéral...)
+                        if (MesOutils.TriangleRectangle(c1, c2, c3))
                         {
                             // préparation et affichage du résultat positif du test 'rectangle' avec la procédure 'Affiche'
-                            // ...
-                            // ...
+                            MesOutils.Affiche(ok, "rectangle", out rep);
+                            Console.WriteLine(rep);
                         }
                         else
                         {
                             // préparation et affichage du résultat négatif du test 'rectangle' avec la procédure 'Affiche'
-                            // ...
-                            // ...
+                            MesOutils.Affiche(ok, "rectangle", out rep);
+                            Console.WriteLine(rep);
                         }
                         // vérification du cas isocèle et affichage dans le cas positif
-                        //...
-                        //...
-                        //... A vous de voir en combien de lignes...
+                        MesOutils.Isocele(c1, c2, c3, ok);
+                        if (ok == true)
+                        {
+                            MesOutils.Affiche(ok, "isocele", out rep);
+                            Console.WriteLine(rep);
+                        }
+                       
                     }
                 }
                 else // si ce n'est pas un triangle
                 {
                     // préparation et affichage du résultat négataif du test 'triangle' avec la procédure 'Affiche'
-                    // ...
-                    // ...
+                    MesOutils.Affiche(ok, "triangle", out rep);
+                    Console.WriteLine(rep);
                 }
                 // reprise ?
                 Console.WriteLine("Voulez-vous tester un autre polygône ? (Tapez espace)");
