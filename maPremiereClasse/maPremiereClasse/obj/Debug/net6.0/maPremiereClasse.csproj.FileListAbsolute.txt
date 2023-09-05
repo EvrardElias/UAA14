@@ -1,0 +1,15 @@
+H:\UAA14\maPremiereClasse\maPremiereClasse\bin\Debug\net6.0\maPremiereClasse.exe
+H:\UAA14\maPremiereClasse\maPremiereClasse\bin\Debug\net6.0\maPremiereClasse.deps.json
+H:\UAA14\maPremiereClasse\maPremiereClasse\bin\Debug\net6.0\maPremiereClasse.runtimeconfig.json
+H:\UAA14\maPremiereClasse\maPremiereClasse\bin\Debug\net6.0\maPremiereClasse.dll
+H:\UAA14\maPremiereClasse\maPremiereClasse\bin\Debug\net6.0\maPremiereClasse.pdb
+H:\UAA14\maPremiereClasse\maPremiereClasse\obj\Debug\net6.0\maPremiereClasse.csproj.AssemblyReference.cache
+H:\UAA14\maPremiereClasse\maPremiereClasse\obj\Debug\net6.0\maPremiereClasse.GeneratedMSBuildEditorConfig.editorconfig
+H:\UAA14\maPremiereClasse\maPremiereClasse\obj\Debug\net6.0\maPremiereClasse.AssemblyInfoInputs.cache
+H:\UAA14\maPremiereClasse\maPremiereClasse\obj\Debug\net6.0\maPremiereClasse.AssemblyInfo.cs
+H:\UAA14\maPremiereClasse\maPremiereClasse\obj\Debug\net6.0\maPremiereClasse.csproj.CoreCompileInputs.cache
+H:\UAA14\maPremiereClasse\maPremiereClasse\obj\Debug\net6.0\maPremiereClasse.dll
+H:\UAA14\maPremiereClasse\maPremiereClasse\obj\Debug\net6.0\refint\maPremiereClasse.dll
+H:\UAA14\maPremiereClasse\maPremiereClasse\obj\Debug\net6.0\maPremiereClasse.pdb
+H:\UAA14\maPremiereClasse\maPremiereClasse\obj\Debug\net6.0\maPremiereClasse.genruntimeconfig.cache
+H:\UAA14\maPremiereClasse\maPremiereClasse\obj\Debug\net6.0\ref\maPremiereClasse.dll
