@@ -1,0 +1,15 @@
+H:\UAA14\6TT_EvrardElias_POO\6TT_EvrardElias_POO\bin\Debug\net6.0\6TT_EvrardElias_POO.exe
+H:\UAA14\6TT_EvrardElias_POO\6TT_EvrardElias_POO\bin\Debug\net6.0\6TT_EvrardElias_POO.deps.json
+H:\UAA14\6TT_EvrardElias_POO\6TT_EvrardElias_POO\bin\Debug\net6.0\6TT_EvrardElias_POO.runtimeconfig.json
+H:\UAA14\6TT_EvrardElias_POO\6TT_EvrardElias_POO\bin\Debug\net6.0\6TT_EvrardElias_POO.dll
+H:\UAA14\6TT_EvrardElias_POO\6TT_EvrardElias_POO\bin\Debug\net6.0\6TT_EvrardElias_POO.pdb
+H:\UAA14\6TT_EvrardElias_POO\6TT_EvrardElias_POO\obj\Debug\net6.0\6TT_EvrardElias_POO.csproj.AssemblyReference.cache
+H:\UAA14\6TT_EvrardElias_POO\6TT_EvrardElias_POO\obj\Debug\net6.0\6TT_EvrardElias_POO.GeneratedMSBuildEditorConfig.editorconfig
+H:\UAA14\6TT_EvrardElias_POO\6TT_EvrardElias_POO\obj\Debug\net6.0\6TT_EvrardElias_POO.AssemblyInfoInputs.cache
+H:\UAA14\6TT_EvrardElias_POO\6TT_EvrardElias_POO\obj\Debug\net6.0\6TT_EvrardElias_POO.AssemblyInfo.cs
+H:\UAA14\6TT_EvrardElias_POO\6TT_EvrardElias_POO\obj\Debug\net6.0\6TT_EvrardElias_POO.csproj.CoreCompileInputs.cache
+H:\UAA14\6TT_EvrardElias_POO\6TT_EvrardElias_POO\obj\Debug\net6.0\6TT_EvrardElias_POO.dll
+H:\UAA14\6TT_EvrardElias_POO\6TT_EvrardElias_POO\obj\Debug\net6.0\refint\6TT_EvrardElias_POO.dll
+H:\UAA14\6TT_EvrardElias_POO\6TT_EvrardElias_POO\obj\Debug\net6.0\6TT_EvrardElias_POO.pdb
+H:\UAA14\6TT_EvrardElias_POO\6TT_EvrardElias_POO\obj\Debug\net6.0\6TT_EvrardElias_POO.genruntimeconfig.cache
+H:\UAA14\6TT_EvrardElias_POO\6TT_EvrardElias_POO\obj\Debug\net6.0\ref\6TT_EvrardElias_POO.dll
