@@ -34,12 +34,10 @@ namespace _6TT_EvrardElias_POO
             return module;
         }
 
-        public double Ajoute(Complexe nbAAjouter)
+        public void Ajoute(Complexe nbAAjouter)
         {
             _reele = _reele + nbAAjouter._reele;
             _imaginaire = _imaginaire + nbAAjouter._imaginaire;
-            return _reele;
-            return _imaginaire;
         }
 
         public string AfficheComplexe()

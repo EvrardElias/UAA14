@@ -22,9 +22,10 @@
         <TextBlock HorizontalAlignment="Center" Text="B" VerticalAlignment="Center" FontSize="36" Grid.Row="1" Grid.Column="0"/>
         <TextBlock HorizontalAlignment="Center" Text="C" VerticalAlignment="Center" FontSize="36" Grid.Row="2" Grid.Column="0"/>
         <TextBlock HorizontalAlignment="Center" Text="A" VerticalAlignment="Center" FontSize="36" Grid.Row="0" Grid.Column="0"/>
-        <Button HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="3" Width="400" Height="50" Grid.ColumnSpan="2" FontSize="36">CALCULER</Button>
-        <TextBlock Name="txtA" HorizontalAlignment="Center" VerticalAlignment="Center" Width="150" Height="50" FontSize="36" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" Background="White"/>
-        <TextBlock Name="txtB" HorizontalAlignment="Center" VerticalAlignment="Center" Width="150" Height="50" FontSize="36" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" Background="White"/>
-        <TextBlock Name="txtC" HorizontalAlignment="Center" VerticalAlignment="Center" Width="150" Height="50" FontSize="36" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2" Background="White"/>
+        <Button x:Name="BtnV" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="3" Width="50" Height="50" Grid.Column="3" FontSize="36">V</Button>
+        <Button x:Name="BtnCalculer" HorizontalAlignment="Center" VerticalAlignment="Center" Grid.Row="3" Width="400" Height="50" Grid.ColumnSpan="2" FontSize="36">CALCULER</Button>
+        <TextBlock x:Name="txtA" HorizontalAlignment="Center" VerticalAlignment="Center" Width="150" Height="50" FontSize="36" Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2" Background="White"/>
+        <TextBlock x:Name="txtB" HorizontalAlignment="Center" VerticalAlignment="Center" Width="150" Height="50" FontSize="36" Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2" Background="White"/>
+        <TextBlock x:Name="txtC" HorizontalAlignment="Center" VerticalAlignment="Center" Width="150" Height="50" FontSize="36" Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2" Background="White"/>
     </Grid>
 </Window>

@@ -23,15 +23,73 @@ namespace _6TT_EvrardElias_ACT3_EventWPF
         public MainWindow()
         {
             InitializeComponent();
-            txtA.PreviewTextInput += new
-            TextCompositionEventHandler(VerifTextInput);
+            txtA.PreviewTextInput += new TextCompositionEventHandler(VerifTextInput);
+            txtB.PreviewTextInput += new TextCompositionEventHandler(VerifTextInput);
+            txtC.PreviewTextInput += new TextCompositionEventHandler(VerifTextInput);
+            BtnCalculer.MouseEnter += new MouseEventHandler(BtnCalculer_MouseEnter);
+            BtnCalculer.MouseLeave += new MouseEventHandler(BtnCalculer_MouseLeave);
+            BtnCalculer.Click += new RoutedEventHandler(BtnCalculer_Click);
+        }
 
-            private bool EstEntier(string texteUser)
+        private void BtnCalculer_Click(object sender, RoutedEventArgs e)
+        {
+            double a;
+            double b;
+            double c;
+            double x1 = 0;
+            double x2 = 0;
+            char type;
+            string message;
+            if (double.TryParse(txtA.Text, out a) && double.TryParse(txtB.Text, out b) && double.TryParse(txtC.Text, out c))
             {
-                bool entier = true;
-                entier = bool.TryParse(Console.ReadLine());
-                return entier;
+                MehodeDuProjet mesOutils = new MehodeDuProjet();
+                mesOutils.ResoudTrinome(a, b, c, ref x1, ref x2, out type);
+                if (type == '2')
+                {
+                    message = $"Il y a deux solutions : {x1} et {x2}.";
+                }
+                else if (type == '1')
+                {
+                    message = $"Il y a deux solutions : {x1}.";
+                }
+                else
+                {
+                    message = $"Il n'y a aucune solution réelle.";
+                }
             }
+        }
+
+        private void BtnCalculer_MouseLeave(object sender, MouseEventArgs e)
+        {
+            BtnV.Visibility = Visibility.Hidden;
+        }
+
+        private void BtnCalculer_MouseEnter(object sender, MouseEventArgs e)
+        {
+            BtnV.Visibility = Visibility.Visible;
+            BtnV.Background = Brushes.Red;
+        }
+
+        private void VerifTextInput(object sender, TextCompositionEventArgs e)
+        {
+            if (e.Text != "," && !EstEntier(e.Text))
+            {
+                e.Handled = true;
+            }
+            else if (((TextBox)sender).Text.IndexOf(e.Text) > -1)
+            {
+                e.Handled = true;
+            }
+        }
+
+        private bool EstEntier(string texteUser)
+        {
+            bool entier = false;
+            if (int.TryParse(texteUser, out int chiffre))
+            {
+                entier = true;
+            }
+            return entier;
         }
     }
 }
