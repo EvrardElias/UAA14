@@ -1,0 +1,5 @@
+H:\UAA14\I2P623_Evrard\I2P623_Evrard\obj\Debug\net6.0\I2P623_Evrard.csproj.AssemblyReference.cache
+H:\UAA14\I2P623_Evrard\I2P623_Evrard\obj\Debug\net6.0\I2P623_Evrard.GeneratedMSBuildEditorConfig.editorconfig
+H:\UAA14\I2P623_Evrard\I2P623_Evrard\obj\Debug\net6.0\I2P623_Evrard.AssemblyInfoInputs.cache
+H:\UAA14\I2P623_Evrard\I2P623_Evrard\obj\Debug\net6.0\I2P623_Evrard.AssemblyInfo.cs
+H:\UAA14\I2P623_Evrard\I2P623_Evrard\obj\Debug\net6.0\I2P623_Evrard.csproj.CoreCompileInputs.cache

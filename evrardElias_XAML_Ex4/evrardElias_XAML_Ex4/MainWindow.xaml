@@ -1,0 +1,13 @@
+﻿<Window x:Class="evrardElias_XAML_Ex4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:evrardElias_XAML_Ex4"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBlock Text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer fringilla leo maximus orci pharetra, et congue ex vulputate. Aenean ac bibendum odio. Nam varius enim eros, ac rutrum erat porttitor nec. Phasellus eleifend metus nisi. Sed ut nisl quam. Aenean lacus velit, gravida in neque at, commodo ullamcorper elit. Maecenas ac ligula vitae urna dictum porta. Duis ut est pellentesque, tempor nibh at, fringilla nunc." TextWrapping="Wrap" Margin="400,0,0,0"/>
+        <TextBlock Text="Maecenas ac ex a odio pharetra scelerisque. Vivamus pretium nulla eget arcu dignissim, at mattis lectus facilisis. Curabitur massa enim, efficitur sed ipsum sollicitudin, rutrum luctus dolor. Curabitur lacinia, quam nec auctor pulvinar, augue mi consectetur orci, a cursus ex ligula ut dolor. Aliquam erat volutpat. Aliquam nec justo dignissim, faucibus orci vitae, egestas odio. Quisque at consectetur lorem, et porttitor quam. Nulla id leo id tortor commodo pretium." TextWrapping="Wrap" Margin="0,0,400,0"/>
+    </Grid>
+</Window>

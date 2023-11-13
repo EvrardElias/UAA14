@@ -1,0 +1,15 @@
+﻿<Window x:Class="evrardElias_XAML_Ex1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:evrardElias_XAML_Ex1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button Content="Up Left" Foreground="Red" VerticalAlignment="Top" HorizontalAlignment="Left"/>
+        <Button Content="Up Right" Foreground="Green" VerticalAlignment="Top" HorizontalAlignment="Right" />
+        <Button Content="Down Left" Foreground="Blue" VerticalAlignment="Bottom" HorizontalAlignment="Left" />
+        <Button Content="Down Right" Foreground="Violet" VerticalAlignment="Bottom" HorizontalAlignment="Right" />
+    </Grid>
+</Window>

@@ -35,6 +35,68 @@ namespace Chien
             _dresse = dresse;
         }
 
+        public string Nom
+        {
+            get { return _nom; }
+            set { _nom = value; }
+        }
+
+        public uint Age
+        {
+            get { return _age; }
+            set { _age = value; }
+        }
+
+        public string Race
+        {
+            get { return _race; }
+        }
+
+        public bool EnOrdreDeVaccin
+        {
+            get { return _enOrdreDeVaccin; }
+            set { _enOrdreDeVaccin = value; }
+        }
+
+        public bool Puce
+        {
+            get { return _puce; }
+            set { _puce = value; }
+        }
+
+        public string Genre
+        {
+            get { return _genre; }
+        }
+
+        public bool Sterilise
+        {
+            get { return _sterilise; }
+            set { _sterilise = value; }
+        }
+
+        public string Poils
+        {
+            get { return _poils; }
+        }
+
+        public string PaysOrigine
+        {
+            get { return _paysOrigine; }
+        }
+        public string Proprietaire
+        {
+            get { return _proprietaire; }
+            set { _proprietaire = value; }
+        }
+
+        public bool Dresse
+        {
+            get { return _dresse; }
+            set { _dresse = value; }
+        }
+
+
         public string AfficherCaracteristique ()
         {
             string chaine = "Nom : " + _nom + " - Age : " + _age + " - Race : " + _race + " - En ordre de vaccin : " + _enOrdreDeVaccin + " - Puce : " + _puce + " - Genre : " + _genre + " - Sterilise : " + _sterilise + " - Poils : " + _poils + " - Pays d'origine : " + _paysOrigine + " - Proprietaire : " + _proprietaire + " - Dresser : " + _dresse + ".";
