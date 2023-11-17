@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "H:\\UAA14\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants.csproj": {}
+    "C:\\Users\\eleva\\OneDrive\\Documents\\École\\6TTI\\Informatique\\UAA14\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants.csproj": {}
   },
   "projects": {
-    "H:\\UAA14\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants.csproj": {
+    "C:\\Users\\eleva\\OneDrive\\Documents\\École\\6TTI\\Informatique\\UAA14\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\UAA14\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants.csproj",
+        "projectUniqueName": "C:\\Users\\eleva\\OneDrive\\Documents\\École\\6TTI\\Informatique\\UAA14\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants.csproj",
         "projectName": "6TT_EvrardElias_ACT3_Elephants",
-        "projectPath": "H:\\UAA14\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants.csproj",
-        "packagesPath": "C:\\Users\\190353\\.nuget\\packages\\",
-        "outputPath": "H:\\UAA14\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants\\obj\\",
+        "projectPath": "C:\\Users\\eleva\\OneDrive\\Documents\\École\\6TTI\\Informatique\\UAA14\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants.csproj",
+        "packagesPath": "C:\\Users\\eleva\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eleva\\OneDrive\\Documents\\École\\6TTI\\Informatique\\UAA14\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\190353\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\eleva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -55,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
         }
       }
     }
