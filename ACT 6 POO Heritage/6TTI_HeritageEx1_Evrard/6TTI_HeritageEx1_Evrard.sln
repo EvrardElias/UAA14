@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6TTI_HeritageEx1_Evrard", "6TTI_HeritageEx1_Evrard\6TTI_HeritageEx1_Evrard.csproj", "{58D221CF-8394-4AE5-AA55-EB1B4AC810FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58D221CF-8394-4AE5-AA55-EB1B4AC810FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58D221CF-8394-4AE5-AA55-EB1B4AC810FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58D221CF-8394-4AE5-AA55-EB1B4AC810FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58D221CF-8394-4AE5-AA55-EB1B4AC810FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD0FB009-46EF-48F5-AFF4-2459BA994461}
+	EndGlobalSection
+EndGlobal
