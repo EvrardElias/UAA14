@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\UAA14\\6TTI_ACT4CreationDynamiqueObjetEx2_Evrard\\6TTI_ACT4CreationDynamiqueObjetEx2_Evrard\\6TTI_ACT4CreationDynamiqueObjetEx2_Evrard.csproj",
+      "projectUniqueName": "H:\\UAA14\\WPF\\ACT4\\6TTI_ACT4CreationDynamiqueObjetEx2_Evrard\\6TTI_ACT4CreationDynamiqueObjetEx2_Evrard\\6TTI_ACT4CreationDynamiqueObjetEx2_Evrard.csproj",
       "projectName": "6TTI_ACT4CreationDynamiqueObjetEx2_Evrard",
-      "projectPath": "H:\\UAA14\\6TTI_ACT4CreationDynamiqueObjetEx2_Evrard\\6TTI_ACT4CreationDynamiqueObjetEx2_Evrard\\6TTI_ACT4CreationDynamiqueObjetEx2_Evrard.csproj",
+      "projectPath": "H:\\UAA14\\WPF\\ACT4\\6TTI_ACT4CreationDynamiqueObjetEx2_Evrard\\6TTI_ACT4CreationDynamiqueObjetEx2_Evrard\\6TTI_ACT4CreationDynamiqueObjetEx2_Evrard.csproj",
       "packagesPath": "C:\\Users\\190353\\.nuget\\packages\\",
-      "outputPath": "H:\\UAA14\\6TTI_ACT4CreationDynamiqueObjetEx2_Evrard\\6TTI_ACT4CreationDynamiqueObjetEx2_Evrard\\obj\\",
+      "outputPath": "H:\\UAA14\\WPF\\ACT4\\6TTI_ACT4CreationDynamiqueObjetEx2_Evrard\\6TTI_ACT4CreationDynamiqueObjetEx2_Evrard\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\190353\\AppData\\Roaming\\NuGet\\NuGet.Config",
