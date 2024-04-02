@@ -27,7 +27,7 @@ namespace _6TTI_DamiersEx3_Evrard
         }
         public void Damier()
         {
-            ColumnDefinition[] colonne = new ColumnDefinition[10];
+            ColumnDefinition[] colonne = new ColumnDefinition[8];
             for (int i = 0; i < 8; i++)
             {
                 colonne[i] = new ColumnDefinition();
@@ -38,7 +38,7 @@ namespace _6TTI_DamiersEx3_Evrard
                 damier.ColumnDefinitions.Add(colonne[i]);
             }
 
-            RowDefinition[] ligne = new RowDefinition[10];
+            RowDefinition[] ligne = new RowDefinition[8];
             for (int i = 0; i < 8; i++)
             {
                 ligne[i] = new RowDefinition();
@@ -49,7 +49,7 @@ namespace _6TTI_DamiersEx3_Evrard
                 damier.RowDefinitions.Add(ligne[i]);
             }
 
-            Button[,] btn = new Button[10, 10];
+            Button[,] btn = new Button[8, 8];
             for (int i = 0; i < 8; i++)
             {
                 for (int m = 0; m < 8; m++)
@@ -59,7 +59,7 @@ namespace _6TTI_DamiersEx3_Evrard
                     Grid.SetRow(btn[i, m], i);
                     btn[i, m].Height = 85;
                     btn[i, m].Width = 85;
-                    int nombreCase = i * 10 + m + 1;
+                    int nombreCase = i * 8 + m + 1;
 
                     if ((i == 0 && m == 3) || (i == 7 && m == 3))
                     {

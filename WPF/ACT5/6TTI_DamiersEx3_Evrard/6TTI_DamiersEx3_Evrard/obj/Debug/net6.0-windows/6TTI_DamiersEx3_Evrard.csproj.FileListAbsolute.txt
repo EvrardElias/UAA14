@@ -45,7 +45,6 @@ H:\UAA14\WPF\ACT5\6TTI_DamiersEx3_Evrard\6TTI_DamiersEx3_Evrard\bin\Debug\net6.0
 H:\UAA14\WPF\ACT5\6TTI_DamiersEx3_Evrard\6TTI_DamiersEx3_Evrard\bin\Debug\net6.0-windows\6TTI_DamiersEx3_Evrard.runtimeconfig.json
 H:\UAA14\WPF\ACT5\6TTI_DamiersEx3_Evrard\6TTI_DamiersEx3_Evrard\bin\Debug\net6.0-windows\6TTI_DamiersEx3_Evrard.dll
 H:\UAA14\WPF\ACT5\6TTI_DamiersEx3_Evrard\6TTI_DamiersEx3_Evrard\bin\Debug\net6.0-windows\6TTI_DamiersEx3_Evrard.pdb
-H:\UAA14\WPF\ACT5\6TTI_DamiersEx3_Evrard\6TTI_DamiersEx3_Evrard\obj\Debug\net6.0-windows\6TTI_DamiersEx3_Evrard.csproj.AssemblyReference.cache
 H:\UAA14\WPF\ACT5\6TTI_DamiersEx3_Evrard\6TTI_DamiersEx3_Evrard\obj\Debug\net6.0-windows\MainWindow.g.cs
 H:\UAA14\WPF\ACT5\6TTI_DamiersEx3_Evrard\6TTI_DamiersEx3_Evrard\obj\Debug\net6.0-windows\App.g.cs
 H:\UAA14\WPF\ACT5\6TTI_DamiersEx3_Evrard\6TTI_DamiersEx3_Evrard\obj\Debug\net6.0-windows\6TTI_DamiersEx3_Evrard_MarkupCompile.cache

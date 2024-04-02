@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Nxw8IH8QkCRBjE5/zPhyLWXrjOXDy+8U3kv9BIA6ZKvI6UUllzSedMe0YmLpsuDctgRxgNVizmrnzSa5RmVhYQ==",
+  "dgSpecHash": "hV4XnPY3AzrIPV7v1jTP54y7I9wofRoCNKWZdGjqSNBouoKEiqu/jDUJmgB1G1uUwoI7Fn6qMBTs/VGk4h7dTw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\eleva\\OneDrive\\Documents\\École\\6TTI\\Informatique\\UAA14\\ACT00_REVISION_VersionBASE\\ACT00_REVISION\\ACT00_REVISION.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "H:\\UAA14\\ACT00_REVISION_VersionBASE\\ACT00_REVISION\\ACT00_REVISION.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\190353\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\190353\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\190353\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\190353\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
   "logs": []
 }
