@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "H:\\UAA14\\6TT_EvrardElias_POO\\6TT_EvrardElias_POO\\6TT_EvrardElias_POO.csproj",
+      "projectUniqueName": "H:\\UAA14\\POO\\ACT2\\6TT_EvrardElias_POO\\6TT_EvrardElias_POO\\6TT_EvrardElias_POO.csproj",
       "projectName": "6TT_EvrardElias_POO",
-      "projectPath": "H:\\UAA14\\6TT_EvrardElias_POO\\6TT_EvrardElias_POO\\6TT_EvrardElias_POO.csproj",
+      "projectPath": "H:\\UAA14\\POO\\ACT2\\6TT_EvrardElias_POO\\6TT_EvrardElias_POO\\6TT_EvrardElias_POO.csproj",
       "packagesPath": "C:\\Users\\190353\\.nuget\\packages\\",
-      "outputPath": "H:\\UAA14\\6TT_EvrardElias_POO\\6TT_EvrardElias_POO\\obj\\",
+      "outputPath": "H:\\UAA14\\POO\\ACT2\\6TT_EvrardElias_POO\\6TT_EvrardElias_POO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\190353\\AppData\\Roaming\\NuGet\\NuGet.Config",

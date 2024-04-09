@@ -1,0 +1,2 @@
+H:\UAA14\WPF\Evaluation Certificative\UAA14_I3_Evrard\UAA14_I3_Evrard\obj\Debug\net6.0-windows\App.g.cs
+H:\UAA14\WPF\Evaluation Certificative\UAA14_I3_Evrard\UAA14_I3_Evrard\obj\Debug\net6.0-windows\UAA14_I3_Evrard_MarkupCompile.cache

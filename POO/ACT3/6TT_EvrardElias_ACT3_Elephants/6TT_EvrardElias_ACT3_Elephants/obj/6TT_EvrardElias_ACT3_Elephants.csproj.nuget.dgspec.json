@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\UAA14\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants.csproj": {}
+    "H:\\UAA14\\POO\\ACT3\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants.csproj": {}
   },
   "projects": {
-    "H:\\UAA14\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants.csproj": {
+    "H:\\UAA14\\POO\\ACT3\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\UAA14\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants.csproj",
+        "projectUniqueName": "H:\\UAA14\\POO\\ACT3\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants.csproj",
         "projectName": "6TT_EvrardElias_ACT3_Elephants",
-        "projectPath": "H:\\UAA14\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants.csproj",
+        "projectPath": "H:\\UAA14\\POO\\ACT3\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants.csproj",
         "packagesPath": "C:\\Users\\190353\\.nuget\\packages\\",
-        "outputPath": "H:\\UAA14\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants\\obj\\",
+        "outputPath": "H:\\UAA14\\POO\\ACT3\\6TT_EvrardElias_ACT3_Elephants\\6TT_EvrardElias_ACT3_Elephants\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\190353\\AppData\\Roaming\\NuGet\\NuGet.Config",
