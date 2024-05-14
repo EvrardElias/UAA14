@@ -12,10 +12,10 @@ namespace _6TTI_Bar_Evrard
         private List<Portion> _contenu;
         private bool _propre;
 
-        public Shaker(double contenanceMax, List<Portion> contenu, bool propre) 
+        public Shaker(double contenanceMax, bool propre) 
         {
             _contenanceMax = contenanceMax;
-            _contenu = contenu;
+            _contenu = new List<Portion>();
             _propre = propre;
         }
 
@@ -39,31 +39,39 @@ namespace _6TTI_Bar_Evrard
         //Combien il y a dans le shaker
         public double CalculQuantiteContenu()
         {
-
+            double quantite = 0;
+            foreach (Portion contenu in Contenu)
+            {
+                quantite += quantite + contenu.Quantite * 0.2;
+            }
+            return quantite;
         }
 
         //Ajouter dans le shaker une portion
         public void AjouterPortion(Portion portion)
         {
-
+            _contenu.Add(portion);
+            _propre = false;
         }
 
         //Ajouter un message
         public string MelangerContenu()
         {
-
+            return "Shaker secoué => Contenu mélanger";
         }
 
         //Remise à zero du shaker et fini sale
         public void Vider()
         {
-
+            
+            _contenu = new List<Portion>();
         }
 
         //Laver le shaker apres utilisation
         public string Laver()
         {
-
+            _propre = true;
+            return "Shaker lavé => Shaker réutilisable";
         }
     }
 }

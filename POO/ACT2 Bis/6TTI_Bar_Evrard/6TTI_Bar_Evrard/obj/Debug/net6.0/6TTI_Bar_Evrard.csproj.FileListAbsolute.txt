@@ -1,0 +1,15 @@
+H:\UAA14\POO\ACT2 Bis\6TTI_Bar_Evrard\6TTI_Bar_Evrard\bin\Debug\net6.0\6TTI_Bar_Evrard.exe
+H:\UAA14\POO\ACT2 Bis\6TTI_Bar_Evrard\6TTI_Bar_Evrard\bin\Debug\net6.0\6TTI_Bar_Evrard.deps.json
+H:\UAA14\POO\ACT2 Bis\6TTI_Bar_Evrard\6TTI_Bar_Evrard\bin\Debug\net6.0\6TTI_Bar_Evrard.runtimeconfig.json
+H:\UAA14\POO\ACT2 Bis\6TTI_Bar_Evrard\6TTI_Bar_Evrard\bin\Debug\net6.0\6TTI_Bar_Evrard.dll
+H:\UAA14\POO\ACT2 Bis\6TTI_Bar_Evrard\6TTI_Bar_Evrard\bin\Debug\net6.0\6TTI_Bar_Evrard.pdb
+H:\UAA14\POO\ACT2 Bis\6TTI_Bar_Evrard\6TTI_Bar_Evrard\obj\Debug\net6.0\6TTI_Bar_Evrard.csproj.AssemblyReference.cache
+H:\UAA14\POO\ACT2 Bis\6TTI_Bar_Evrard\6TTI_Bar_Evrard\obj\Debug\net6.0\6TTI_Bar_Evrard.GeneratedMSBuildEditorConfig.editorconfig
+H:\UAA14\POO\ACT2 Bis\6TTI_Bar_Evrard\6TTI_Bar_Evrard\obj\Debug\net6.0\6TTI_Bar_Evrard.AssemblyInfoInputs.cache
+H:\UAA14\POO\ACT2 Bis\6TTI_Bar_Evrard\6TTI_Bar_Evrard\obj\Debug\net6.0\6TTI_Bar_Evrard.AssemblyInfo.cs
+H:\UAA14\POO\ACT2 Bis\6TTI_Bar_Evrard\6TTI_Bar_Evrard\obj\Debug\net6.0\6TTI_Bar_Evrard.csproj.CoreCompileInputs.cache
+H:\UAA14\POO\ACT2 Bis\6TTI_Bar_Evrard\6TTI_Bar_Evrard\obj\Debug\net6.0\6TTI_Bar_Evrard.dll
+H:\UAA14\POO\ACT2 Bis\6TTI_Bar_Evrard\6TTI_Bar_Evrard\obj\Debug\net6.0\refint\6TTI_Bar_Evrard.dll
+H:\UAA14\POO\ACT2 Bis\6TTI_Bar_Evrard\6TTI_Bar_Evrard\obj\Debug\net6.0\6TTI_Bar_Evrard.pdb
+H:\UAA14\POO\ACT2 Bis\6TTI_Bar_Evrard\6TTI_Bar_Evrard\obj\Debug\net6.0\6TTI_Bar_Evrard.genruntimeconfig.cache
+H:\UAA14\POO\ACT2 Bis\6TTI_Bar_Evrard\6TTI_Bar_Evrard\obj\Debug\net6.0\ref\6TTI_Bar_Evrard.dll

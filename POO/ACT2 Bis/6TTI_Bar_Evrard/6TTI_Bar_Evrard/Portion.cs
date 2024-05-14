@@ -30,7 +30,12 @@ namespace _6TTI_Bar_Evrard
         //Regarder dans la bouteille si assez de liquide et si assez de place dans le shaker
         public bool TesterPortion(Shaker shaker, Bouteille bouteille)
         {
-
+            bool ok = false;
+            if (shaker.ContenanceMax >= (shaker.CalculQuantiteContenu() + this.Quantite * 0.2) && this.Quantite * 0.2 <= bouteille.Contenance)
+            {
+                ok = true;
+            }
+            return ok;
         }
     }
 }

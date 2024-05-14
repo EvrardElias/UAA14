@@ -32,13 +32,14 @@ namespace _6TTI_Bar_Evrard
         //Decompter une portion dans la bouteille
         public void Verser(Portion portion)
         {
-
+            _contenance = _contenance - 1;
         }
 
         //Detruire la bouteille si vide
         public string Jeter(Bouteille bouteille)
         {
-
+            string chaine = "Votre bouteille de " + _contenu.Nom + " à bien fini à la poubelle.";
+            return chaine;
         }
     }
 }

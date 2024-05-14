@@ -27,17 +27,16 @@ namespace _6TTI_Bar_Evrard
         {
             get { return _recetteCocktail;}
         }
-        
-        //REgarder si place dans le verre
-        public double CalculContenance()
-        {
-
-        }
 
         //Concatener la recette
         public string AfficherRecette()
         {
-
+            string chaine = "Recette du " + Nom + "\n";
+            for (int i = 0; i < RecetteCocktail.Ingredients.Count -1; i++)
+            {
+                chaine += RecetteCocktail.Ingredients[i].Quantite + " de " + RecetteCocktail.Ingredients[i].Contenu.Nom + "\n";
+            }
+            return chaine;
         }
     }
 }

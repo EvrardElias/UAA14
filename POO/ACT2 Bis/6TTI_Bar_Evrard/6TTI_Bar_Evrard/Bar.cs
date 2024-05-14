@@ -24,19 +24,36 @@ namespace _6TTI_Bar_Evrard
         //Sur base du liquide regarder le numero de la bouteille
         public bool PrendreBouteille(Liquide liquide, out int placeBouteille)
         {
+            bool trouve = false;
+            placeBouteille = -1;
+            int i = 0;
+            while (i < Bouteilles.Count && !trouve)
+            {
+                if (Bouteilles[i].Contenu == liquide)
+                {
+                    trouve = true;
+                    placeBouteille = i;
+                }
+                i++;
+            }
+            return trouve;
 
         }
 
         //Si bouteille vide remettre une nouvelle
         public bool AjouterBouteille(Bouteille bouteille)
         {
-
+            _bouteilles.Add(bouteille);
+            return true;
         }
 
         //Parcourir la liste des bouteille
-        public string AfficheInventaireBar()
+        public void AfficheInventaireBar()
         {
-
+            for (int i = 0; i < _bouteilles.Count; i++)
+            {
+                Console.WriteLine(_bouteilles[i].Contenu.Nom);
+            }
         }
     }
 }
